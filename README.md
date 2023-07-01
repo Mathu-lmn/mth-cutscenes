@@ -24,4 +24,4 @@ https://streamable.com/q36uwc
 
 Feel free to open an Issue or make a PR to help me improve this resource !
 
-*PS : I used this file to get the timecycle list so huge thanks to @DurtyFree : [gta-v-data-dumps](https://github.com/DurtyFree/gta-v-data-dumps)*
+*PS : I used this file to get the cutscenes list so huge thanks to @DurtyFree : [gta-v-data-dumps](https://github.com/DurtyFree/gta-v-data-dumps)*
